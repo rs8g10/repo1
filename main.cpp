@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 fdsfsfdsdsfd
+=======
+ada
+>>>>>>> newBranch
