@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-fdsfsfdsdsfd
-=======
-ada
->>>>>>> newBranch
+dsf
