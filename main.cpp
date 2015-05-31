@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-ada
-=======
-dsf
->>>>>>> branch1
+ad
